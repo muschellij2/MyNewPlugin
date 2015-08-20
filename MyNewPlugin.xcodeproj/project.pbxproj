@@ -68,6 +68,7 @@
 		089C167CFE841241C02AAC07 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				CA7B0C731B59827900ADB428 /* Window.xib */,
 				8D5B49B7048680CD000E48DA /* Info.plist */,
 				089C167DFE841241C02AAC07 /* InfoPlist.strings */,
 			);
@@ -120,7 +121,6 @@
 			children = (
 				ABA48A640680BB600089EB4F /* MyNewPluginFilter.h */,
 				ABA48A660680BB690089EB4F /* MyNewPluginFilter.m */,
-				CA7B0C731B59827900ADB428 /* Window.xib */,
 			);
 			name = MyNewPluginFilter;
 			sourceTree = "<group>";
