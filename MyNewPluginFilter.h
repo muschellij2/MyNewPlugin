@@ -44,12 +44,12 @@
 - (long) roiAutoSetPixels;
 
 
-- (IBAction) exportButton:(id)sender;
-- (IBAction) cancelButton:(id)sender;
-- (void) openExportWindow;
+//- (IBAction) exportButton:(id)sender;
+//- (IBAction) cancelButton:(id)sender;
+//- (void) openExportWindow;
 
-- (void) writeFile;
+//- (void) writeFile;
 - (void) viewerExportToDICOM;
-- (void) browserExportToDICOM;
+//- (void) browserExportToDICOM;
 
 @end

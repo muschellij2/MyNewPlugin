@@ -81,7 +81,8 @@
                     }
                     
                     int index = [roiNames indexOfObject:[curROI name]];
-                    int newValue = index+1;
+//                    int newValue = index+1;
+                    int newValue = 1;
                     NSString *newValueString = [NSString stringWithFormat:@"%d",newValue];
                     
                     [viewerController roiSetPixels:curROI :0 :false :false :min :max :newValue];
@@ -98,7 +99,11 @@
     
     [[viewerController imageView] setWLWW:0 :1];
     
-    [self openExportWindow];
+//    [self openExportWindow];
+//    fileName = @"ROI";
+//    [window close];
+    
+//    [self viewerExportToDICOM];
     return 0;
 }
 
@@ -111,7 +116,8 @@
 
 - (IBAction) exportButton:(id)sender
 {
-     fileName = [fileNameField stringValue];
+//     fileName = [fileNameField stringValue];
+    fileName = @"ROI";
     [window close];
     
     [self viewerExportToDICOM];
@@ -154,6 +160,7 @@
 
 - (void) viewerExportToDICOM
 {
+    fileName = @"ROI";
     NSMutableArray *producedFiles = [NSMutableArray array];
     
     int from, to, interval;
@@ -220,7 +227,7 @@
 //        }
 //    }
 
-    [self browserExportToDICOM];
+//    [self browserExportToDICOM];
 }
 
 - (void) browserExportToDICOM

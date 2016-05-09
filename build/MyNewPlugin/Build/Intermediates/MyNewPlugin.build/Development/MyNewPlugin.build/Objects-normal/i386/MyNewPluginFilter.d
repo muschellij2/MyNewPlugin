@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/MyNewPluginFilter.m \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/MyNewPluginFilter.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/PluginFilter.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/DCMPix.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/ViewerController.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/ROI.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/MyPoint.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/OSIWindowController.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/DCMView.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/N3Geometry.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/BrowserController.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/BrowserController+Sources.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/DICOMExport.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/DicomDatabase.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/N2ManagedDatabase.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/DicomDatabase+Routing.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/DicomDatabase+Clean.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/MyOutlineView.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/NSThread+N2.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/ThreadsManager.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/ITKSegmentation3DController.h \
+  /Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/OsiriXAPI.framework/Headers/N2Stuff.h

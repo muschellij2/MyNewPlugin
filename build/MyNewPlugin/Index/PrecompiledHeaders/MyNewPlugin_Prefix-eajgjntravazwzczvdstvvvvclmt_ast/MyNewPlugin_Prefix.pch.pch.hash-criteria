@@ -1,0 +1,24 @@
+-x
+objective-c
+-arch
+x86_64
+-fretain-comments-from-system-headers
+-gmodules
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+-fasm-blocks
+-mmacosx-version-min=10.8
+-g
+-I/Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/build/MyNewPlugin/Build/Products/Development/include
+-F/Users/johnmuschelli/Dropbox/Packages/MyNewPlugin/build/MyNewPlugin/Build/Products/Development
+-F/Users/johnmuschelli/Dropbox/Packages/MyNewPlugin
+-ferror-limit=10
+-working-directory=/Users/johnmuschelli/Dropbox/Packages/MyNewPlugin
+-Xclang
+-detailed-preprocessing-record
+x86_64-apple-darwin14.5.0
+"4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)"
+SDK_PRODUCT_BUILD_VERSION=12F37
+12F37
